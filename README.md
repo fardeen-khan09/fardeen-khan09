@@ -1,7 +1,3 @@
-<!-- Banner or Header -->
-# 🌸 Hey there, I’m so glad you’re here!
-
-<img align="right" alt="Coding" width="250" src="https://avatars.githubusercontent.com/YOUR_GITHUB_USERNAME" />
 
 Welcome to my little corner of GitHub!  
 I’m **Fardeen Khan**, a **Data Analyst** passionate about turning raw data into meaningful insights.  
