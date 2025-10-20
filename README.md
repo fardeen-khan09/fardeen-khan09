@@ -1,4 +1,4 @@
-# 🌸 Hey there, I’m so glad you’re here!
+# 🚀 Hey there, I’m so glad you’re here!
 
 Welcome to my little corner of GitHub!  
 I’m **Fardeen Khan**, a **Data Analyst** passionate about turning raw data into meaningful insights.  
@@ -19,7 +19,6 @@ You bring the snacks, I’ll bring the code 🍪💻
 ### 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrfardeenkhan)
-
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/fardeen.09__)
 
 ---
