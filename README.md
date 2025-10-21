@@ -1,4 +1,4 @@
-# 🚀 Hey there, I’m so glad you’re here!
+# 👋🏻 Hey there, I’m so glad you’re here!
 
 Welcome to my little corner of GitHub!  
 I’m **Fardeen Khan**, a **Data Analyst** passionate about turning raw data into meaningful insights.  
